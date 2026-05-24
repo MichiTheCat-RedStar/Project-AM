@@ -2,9 +2,9 @@
 
 ### (Project Anonim Messanger)
 
-MichiTheCat-RedStar (c) 2026 [(MIT License)](./LICENSE)
+MichiTheCat-RedStar (c) 2026 [(GNU GPLv3 (General Public License v3.0))](./LICENSE)
 
-Version: **v0.1b**
+Version: **v0.2b**
 
 **Всё представленное здесь является ещё разрабатываемой версией и может значительно отличаться от релиза!**
 

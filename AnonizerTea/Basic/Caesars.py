@@ -15,10 +15,9 @@ def Caesars(text:str, ROT:int) -> str:
 
 
 if __name__ == '__main__':
-	print('MichiTheCat-RedStar (c) 2026\n')
+	print('MichiTheCat-RedStar (c) 2026')
 	while True:
-		_user = input('>>> ')
+		_user = input('\n>>> ')
 		print()
 		for rot in range(33):
 			print(f'ROT{rot}: {Caesars(_user, rot)}')
-		print()
