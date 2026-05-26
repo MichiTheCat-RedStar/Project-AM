@@ -4,7 +4,7 @@
 
 MichiTheCat-RedStar (c) 2026 [(GNU GPLv3 (General Public License v3.0))](./LICENSE)
 
-Version: **v0.2b**
+Version: **v0.2с**
 
 **Всё представленное здесь является ещё разрабатываемой версией и может значительно отличаться от релиза!**
 
